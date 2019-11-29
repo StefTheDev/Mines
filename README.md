@@ -1,5 +1,4 @@
 ### Features
-
 - Efficient data serialization handled by json storage.
 - Managers to manipulate data efficiently
 - Built-in bound selection for mines.
@@ -9,7 +8,6 @@
 - Configurable messages.
 
 ### Commands and Permissions
-
 ```
 /mines add [name] [material]:[percentage] | mines.add
 /mines create [name] | mines.create
